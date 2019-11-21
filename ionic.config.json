@@ -1,5 +1,7 @@
 {
   "name": "woo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
